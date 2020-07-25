@@ -52,8 +52,8 @@ Utility React Hooks that we often use.
 
 https://www.npmjs.com/package/@nekogd/react-utility-hooks
 
-#### Check out my React Hook (or component) to npm package boilerplate
+#### Check out my boilerplate for creating NPM package exposing React Hook(s) (or component(s))
 
-I've put together a boilerplate and short tutorial for those of us who want to publish on NPM.
+I've put together a boilerplate and short tutorial for those of us who want to publish NPM package.
 
 https://github.com/nekogd/react-hook-npm-publish-boilerplate  
