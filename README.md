@@ -1,6 +1,7 @@
 ### Hi, I am Igor
 
 Professionally, I am an experienced Frontend Technical Lead.
+
 You can see my direct supervisor next to me.
 
 ### Commercial
