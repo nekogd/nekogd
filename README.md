@@ -2,8 +2,6 @@
 
 Professionally, I am an experienced Frontend Technical Lead.
 
-You can see my direct supervisor next to me.
-
 ### Commercial
 
 #### Portfolio of my architecure solutions (start to finish)
@@ -43,7 +41,7 @@ You can see my direct supervisor next to me.
 ### Open Source 
 
 I've been gone from open source for a long time. 
-I've got back just last week with React utility-hooks NPM package 
+I've got back just by the end of July with React utility-hooks served as NPM package. 
 
 I am currently in the process of creating content for technical YT channel and technical blog. 
 
@@ -51,7 +49,8 @@ I am currently in the process of creating content for technical YT channel and t
 
 Utility React Hooks that we often use.
 
-https://www.npmjs.com/package/@nekogd/react-utility-hooks
+https://www.npmjs.com/package/@nekogd/react-utility-hooks 
+
 
 #### Check out my boilerplate for creating NPM package exposing React Hook(s) (or component(s))
 
