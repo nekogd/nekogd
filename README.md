@@ -1,6 +1,7 @@
 ### Hi, I am Igor
 
 Professionally, I am an experienced Frontend Technical Lead.
+You can see my direct supervisor next to me.
 
 ### Commercial
 
@@ -51,3 +52,8 @@ Utility React Hooks that we often use.
 
 https://www.npmjs.com/package/@nekogd/react-utility-hooks
 
+#### Check out my React Hook (or component) to npm package boilerplate
+
+I've put together a boilerplate and short tutorial for those of us who want to publish on NPM.
+
+https://github.com/nekogd/react-hook-npm-publish-boilerplate  
