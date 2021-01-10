@@ -1,10 +1,10 @@
 ### Hi, I am Igor
 
-Professionally, I am an experienced Frontend Technical Lead.
+Currently working as a Technical Lead.
 
 ### Checkout the Medium
 
-https://medium.com/@tymekluczko/
+https://igorluczko.medium.com/
 
 ### Check out my NPM package
 
