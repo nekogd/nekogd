@@ -1,14 +1,7 @@
 ### Hi, I am Igor
 
-Currently working as a Technical Lead.
+Humble Technical Lead (Web) and Solutions Architect.
 
-### Checkout the Medium
-
+### Checkout my Medium
+I wrote a few tech articles. You can read them at Medium.
 https://igorluczko.medium.com/
-
-### Check out my NPM package
-
-Utility React Hooks that we often use.
-
-https://www.npmjs.com/package/@nekogd/react-utility-hooks 
-
